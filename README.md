@@ -5,6 +5,7 @@ The code for the following problems have been uploaded in this repository
 
 1. Sudoku solver :- A code to solve sudoku, use of solver is allowed. The blanks are shown as zero.
 Consider this as a problem
+        |:--------------------------------|
         |[[0,0,0,2,6,0,7,0,1],|
         |[6,8,0,0,7,0,0,9,0],|
         |[1,9,0,0,0,4,5,0,0],|
