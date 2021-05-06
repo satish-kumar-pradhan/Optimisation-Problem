@@ -14,6 +14,6 @@ Consider this as a problem
  [0, 0, 9, 3, 0, 0, 0, 7, 4],
  [0, 4, 0, 0, 5, 0, 0, 3, 6],
  [7, 0, 3, 0, 1, 8, 0, 0, 0]]
-Use of Exact solver is allowed.
+Use of Exact solver is allowed. 
 
 
