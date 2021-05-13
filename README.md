@@ -26,4 +26,14 @@ Consider this as a problem
 	
 Use of Exact solver is allowed. 
 
+2. Sudoku Generator :- Find out a way to generate a sudoku problem which has the following traits:-
+			
+		       a. The no of possible solutions is 1.
+		       
+		       b. Get randomly new problems each time.
+		       
+		       c. Use minimum no of field filled to be minimized as much as possible.
+		       
+		       d. Use of Exact Solver is allowed.
+
 
